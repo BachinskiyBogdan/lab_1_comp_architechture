@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NotePad_test">
+</Property><Property Name="Файл решения" Value="C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test.sln">
+</Property><Property Name="Date" Value="23 февраля 2013 г.">
+</Property><Property Name="Time" Value="14:25">
+</Property></Properties><Event ErrorLevel="0" Project="NotePad_test" Source="NotePad_test\NotePad_test.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="NotePad_test" Source="NotePad_test\NotePad_test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NotePad_test.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="NotePad_test.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NotePad_test" Source="NotePad_test\NotePad_test.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

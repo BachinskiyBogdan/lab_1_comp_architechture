@@ -1,0 +1,26 @@
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\bin\Debug\NotePad_test.exe
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\bin\Debug\NotePad_test.pdb
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Form1.resources
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Properties.Resources.resources
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\NotePad_test.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\NotePad_test.exe
+C:\Documents and Settings\student\My Documents\KV-11\NotePad_test\NotePad_test\obj\Debug\NotePad_test.pdb
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.exe
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.pdb
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\bin\Debug\NotePad_test.exe
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\bin\Debug\NotePad_test.pdb
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\ResolveAssemblyReference.cache
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Form1.resources
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Properties.Resources.resources
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.csproj.GenerateResource.Cache
+H:\Семестр_6\Архитектура Компьютера\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Find_Form.resources
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.exe
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.pdb
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\bin\Debug\NotePad_test.exe
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\bin\Debug\NotePad_test.pdb
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Form1.resources
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.FindForm.resources
+C:\Users\Bogdan\Desktop\NotePad_test\NotePad_test\obj\Debug\NotePad_test.csprojResolveAssemblyReference.cache
